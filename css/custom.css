@@ -1,0 +1,73 @@
+/* CUSTOM CSS HERE */
+.magnific-gallery img{
+    opacity: 0.9;
+    width: 95% !important;
+    height: 95% !important;
+}
+ul.magnific-gallery li{
+    background-color: #fff;
+}
+a.Bidacs{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.BidacLogo{
+    width: 65px;
+}
+.BidacLogo2{
+    width: 115px;
+}
+#logo_footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.box_feat_home p{
+    font-size: 18px;
+    color: #777;
+    line-height: 25px;
+    text-align: justify;
+}
+.box_style_5 {
+    background-color: white;
+    border: 6px solid #f3f5f8;
+    padding: 6px;
+}
+.list_courses_tabs ul li {
+    padding: 15px 5px 10px 10px;
+}
+.lihover {
+    background-color: #f8f8f8
+}
+.list_courses_tabs li h3{
+    line-height: 24px;
+    padding: 5px 8px !important;
+}
+div.verticalsep{
+    height: 50px;
+}
+li.i_s_bg{
+    background-color: white;
+    padding: 15px 20px 5px 20px !important;
+    margin-right: 10px;
+    height: auto !important;
+}
+ul.list_staff li.i_s_bg figure{
+    position: relative;
+    float: left;
+    margin-right: 10px;
+}
+li.i_s_bg figure img{}
+li.i_s_bg h5{
+    float: right;
+}
+div.content>section{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+div.box1zer{
+    padding: 15px 10px 10px 10px !important;
+}
