@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'Glyphter';
-    src: url('fonts/Glyphter.eot');
-    src: url('fonts/Glyphter.eot') format("embedded-opentype"), url('fonts/Glyphter.woff') format("woff"), url('fonts/Glyphter.ttf') format("truetype"), url('fonts/Glyphter.svg') format("svg");
+    src: url('./fonts/Glyphter.woff') format("woff");
     font-weight: 400;
     font-style: normal
 }
