@@ -1117,7 +1117,8 @@ ul.list_teachers li h5 {
     width: auto;
     height: 220px;
     position: absolute;
-    left: -10%
+    left: 0;
+    max-width: 100%;
 }
 
 .box_side,
@@ -1126,11 +1127,11 @@ ul.add_info li i {
 }
 
 .img_list a img {
-    -webkit-transform: scale(1.2);
+    /* -webkit-transform: scale(1.2);
     transform: scale(1.2);
     -webkit-transition: all .7s ease;
     transition: all .7s ease;
-    -webkit-border-top-left-radius: 3px
+    -webkit-border-top-left-radius: 3px */
 }
 
 .img_list a:hover img {
