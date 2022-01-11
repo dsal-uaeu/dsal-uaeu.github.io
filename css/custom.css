@@ -13,8 +13,12 @@ a.Bidacs{
     align-items: center;
     justify-content: center;
 }
+#logo{
+    margin: 0;
+}
 .BidacLogo{
-    width: 65px;
+    width: 310px;
+    margin: 7px;
 }
 .BidacLogo2{
     width: 115px;
@@ -76,4 +80,7 @@ div.box1zer{
 }
 .sub_page_header{
     height: 300px;
+}
+@media screen {
+    /* list_news_tabs */
 }

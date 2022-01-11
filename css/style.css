@@ -324,8 +324,8 @@ a.button_outline {
 
 .button_outline:hover,
 a.button_outline:hover {
-    border: 2px solid #283842;
-    color: #283842
+    border: 2px solid #334A8D;
+    color: #334A8D
 }
 
 .button_outline.large,
@@ -420,7 +420,7 @@ a.button_intro:hover {
 
 footer,
 header#contacts {
-    background-color: #283842
+    background-color: #334A8D
 }
 
 header {
@@ -436,7 +436,7 @@ header {
 
 header.sticky,
 header.sticky#contacts {
-    background-color: #283842;
+    background-color: #334A8D;
     opacity: 1
 }
 
@@ -2332,7 +2332,7 @@ a.banner_bt {
 }
 
 a.banner_bt:hover {
-    background-color: #283842;
+    background-color: #334A8D;
     color: #fff
 }
 
