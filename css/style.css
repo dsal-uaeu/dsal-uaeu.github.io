@@ -1153,7 +1153,7 @@ ul.add_info li i {
 .course_list_desc {
     padding: 10px 20px 0 0;
     border-right: 1px solid #ededed;
-    height: 220px;
+    min-height: 220px;
     line-height: 1.4
 }
 

@@ -20,6 +20,11 @@ a.Bidacs{
     width: 310px;
     margin: 7px;
 }
+.BidacLogoFooter{
+    width: 100%;
+    max-width: 450px;
+    margin: 7px;
+}
 .BidacLogo2{
     width: 115px;
 }
@@ -83,4 +88,26 @@ div.box1zer{
 }
 @media screen {
     /* list_news_tabs */
+}
+#People .box_style_1{
+    position: relative;
+    padding-bottom: 18px;
+}
+#People #section-1 .box_style_1 a>p:last-child {
+    padding-bottom: 10px;
+}
+#People #section-1 .box_style_1 .img-circle {
+    width: 150px;
+    height: 150px;
+}
+#People #section-1 .box_style_1 a {
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    width: 34px;
+    left: 50%;
+    margin-left: -15px;
+}
+#People #section-1 .box_style_1 a i{
+    color: #334A8D;
 }
