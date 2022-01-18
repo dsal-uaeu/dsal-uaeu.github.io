@@ -140,3 +140,17 @@ div.box1zer{
 #contacts_footer .socials i{
     font-size: 22px;
 }
+.projects_link{
+    margin: 20px auto 30px auto;
+    padding: 15px;
+    display: block;
+    width: 200px;
+    background-color: white;
+    text-align: center;
+    border: 1px solid #efefef;
+}
+.projects_link a{}
+.projects_link i{}
+#Projects{
+    padding-bottom: 30px;
+}
