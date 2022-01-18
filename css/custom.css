@@ -134,3 +134,9 @@ div.box1zer{
     color: #de5150;
     float: left;
 }
+#contacts_footer .socials {
+    margin-top: 10px;
+}
+#contacts_footer .socials i{
+    font-size: 22px;
+}
