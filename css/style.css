@@ -614,7 +614,7 @@ ul#contacts_footer {
 
 .box_feat_home i {
     font-size: 70px;
-    color: #622960;
+    color: #de4e4e;
     position: absolute;
     left: 0;
     top: 0
@@ -954,7 +954,7 @@ a.box_style_1:hover {
     font-size: 50px;
     position: absolute;
     left: 0;
-    color: #622960;
+    color: #de4e4e;
     top: 0
 }
 
@@ -2289,7 +2289,7 @@ ul.list_3 li:before {
     margin-bottom: 30px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
-    background: url(../img/bg_banner.png) right bottom no-repeat #622960;
+    background: url(../img/bg_banner.png) right bottom no-repeat #de4e4e;
     padding: 30px 30px 60px;
     color: #fff;
     text-align: center;

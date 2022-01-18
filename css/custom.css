@@ -109,5 +109,28 @@ div.box1zer{
     margin-left: -15px;
 }
 #People #section-1 .box_style_1 a i{
-    color: #334A8D;
+    color: #de5150;
+}
+.box_feat_service{
+    background-color: #ffffff;
+    padding: 7px;
+    margin-bottom: 20px;
+    padding-left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.box_feat_service p{
+    font-size: 18px;
+    color: #333;
+    line-height: 25px;
+    margin: 0;
+    text-align: justify;
+    padding-left: 20px;
+}
+.box_feat_service i {
+    font-size: 50px;
+    color: #de5150;
+    float: left;
 }
