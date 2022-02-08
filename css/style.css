@@ -2593,3 +2593,11 @@ a.banner_bt:hover {
 .tooltip-content a {
     font-weight: 700
 }
+.ppls{
+    margin-bottom: 5px;
+    text-align: left;
+}
+.ppls span{
+    display: block;
+    padding-left: 45px;
+}
