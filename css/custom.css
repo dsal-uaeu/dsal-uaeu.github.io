@@ -17,13 +17,13 @@ a.Bidacs{
     margin: 0;
 }
 .BidacLogo{
-    width: 310px;
+    height: 56px;
     margin: 7px;
 }
 .BidacLogoFooter{
-    width: 100%;
-    max-width: 450px;
-    margin: 7px;
+    width: 150px;
+    height: 138px;
+    border-radius: 100%;
 }
 .BidacLogo2{
     width: 115px;
